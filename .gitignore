@@ -19,3 +19,15 @@ assets/audio/
 
 # Logs
 *.log
+# outputs
+output/
+*.mp3
+*.txt
+
+# python
+__pycache__/
+*.pyc
+
+# env
+.env
+.venv/
