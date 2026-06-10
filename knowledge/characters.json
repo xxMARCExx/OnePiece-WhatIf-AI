@@ -1,0 +1,553 @@
+{
+  "characters": {
+    "monkey_d_luffy": {
+      "role": "protagonist",
+      "affiliation": "straw_hat_pirates",
+      "traits": ["free-spirited", "reckless", "empathic leader"],
+      "goal": "become Pirate King",
+      "power": "Hito Hito no Mi Model: Nika",
+      "tier": "yonko+",
+      "influence": "world-changing catalyst",
+      "relationships": {
+        "shanks": "inspiration",
+        "zoro": "right hand",
+        "blackbeard": "rival",
+        "dragon": "father"
+      }
+    },
+
+    "roronoa_zoro": {
+      "role": "combatant",
+      "affiliation": "straw_hat_pirates",
+      "traits": ["disciplined", "loyal", "battle-focused"],
+      "goal": "world's strongest swordsman",
+      "power": "three-sword style + advanced haki",
+      "tier": "yonko commander level",
+      "influence": "top-tier fighter impact"
+    },
+
+    "nami": {
+      "role": "navigator",
+      "traits": ["intelligent", "survivor"],
+      "goal": "map the entire world",
+      "power": "weather manipulation (Clima-Tact)",
+      "tier": "mid-high support",
+      "influence": "navigation and survival control"
+    },
+
+    "usopp": {
+      "role": "sniper",
+      "traits": ["cowardly", "creative", "liar"],
+      "goal": "brave warrior of the sea",
+      "power": "sniping + trick weapons",
+      "tier": "mid fighter",
+      "influence": "long-range tactical disruption"
+    },
+
+    "sanji": {
+      "role": "combatant",
+      "traits": ["chivalrous", "emotional", "strategic"],
+      "goal": "find All Blue",
+      "power": "black leg style + genetic enhancements",
+      "tier": "yonko commander level",
+      "influence": "speed-based combat specialist"
+    },
+
+    "nico_robin": {
+      "role": "lore keeper",
+      "traits": ["calm", "intellectual", "mysterious"],
+      "goal": "discover true history",
+      "power": "Hana Hana no Mi",
+      "tier": "high utility",
+      "influence": "world history knowledge key"
+    },
+
+    "tony_tony_chopper": {
+      "role": "doctor",
+      "traits": ["kind", "emotional", "curious"],
+      "goal": "cure all diseases",
+      "power": "Human-Human Fruit",
+      "tier": "support fighter",
+      "influence": "medical survival factor"
+    },
+
+    "franky": {
+      "role": "shipwright",
+      "traits": ["eccentric", "inventive"],
+      "goal": "build dream ship",
+      "power": "cyborg enhancements",
+      "tier": "mid-high tech fighter",
+      "influence": "technology scaling factor"
+    },
+
+    "brook": {
+      "role": "musician",
+      "traits": ["lonely", "humorous"],
+      "goal": "reunite with Laboon",
+      "power": "revived skeleton + soul abilities",
+      "tier": "utility fighter",
+      "influence": "soul/immortality element"
+    },
+
+    "jinbe": {
+      "role": "helmsman",
+      "traits": ["wise", "honorable"],
+      "goal": "human-fishman peace",
+      "power": "fish-man karate",
+      "tier": "yonko commander level",
+      "influence": "stability and diplomacy"
+    },
+
+    "shanks": {
+      "role": "yonko",
+      "traits": ["mysterious", "calm", "dominant willpower"],
+      "goal": "unknown global balance",
+      "power": "advanced conqueror's haki",
+      "tier": "yonko+",
+      "influence": "global power stabilizer"
+    },
+
+    "blackbeard": {
+      "role": "main antagonist",
+      "traits": ["greedy", "strategic", "ruthless"],
+      "goal": "Pirate King",
+      "power": "darkness + quake fruits",
+      "tier": "yonko+ threat",
+      "influence": "chaos multiplier"
+    },
+
+    "portgas_d_ace": {
+      "role": "former whitebeard commander",
+      "traits": ["passionate", "loyal", "reckless"],
+      "goal": "protect loved ones",
+      "power": "magma/fire (logia)",
+      "tier": "yonko commander",
+      "influence": "marineford catalyst"
+
+    },
+
+    "sabo": {
+      "role": "revolutionary commander",
+      "traits": ["strategic", "loyal", "calm"],
+      "goal": "destroy world government",
+      "power": "mera mera no mi",
+      "tier": "yonko commander",
+      "influence": "revolutionary escalation"
+
+    },
+
+    "monkey_d_dragon": {
+      "role": "revolutionary leader",
+      "traits": ["mysterious", "calculated"],
+      "goal": "overthrow world government",
+      "power": "unknown",
+      "tier": "global threat",
+      "influence": "world revolution trigger"
+    },
+
+    "garp": {
+      "role": "marine hero",
+      "traits": ["honorable", "strong-willed"],
+      "goal": "justice within system",
+      "power": "advanced haki",
+      "tier": "legendary marine",
+      "influence": "marine moral anchor"
+    },
+
+    "sengoku": {
+      "role": "former fleet admiral",
+      "traits": ["strategic", "disciplined"],
+      "goal": "maintain balance",
+      "power": "buddha zoan",
+      "tier": "legendary marine",
+      "influence": "war strategy control"
+    },
+
+    "akainu_sakazuki": {
+      "role": "fleet admiral",
+      "traits": ["ruthless", "absolute justice"],
+      "goal": "eradicate piracy",
+      "power": "magma magma fruit",
+      "tier": "top marine",
+      "influence": "military escalation"
+    },
+
+    "aokiji_kuzan": {
+      "role": "former admiral",
+      "traits": ["laid back", "morally flexible"],
+      "goal": "justice balance",
+      "power": "ice ice fruit",
+      "tier": "top marine",
+      "influence": "balance disruption"
+    },
+
+    "kizaru_borsalino": {
+      "role": "admiral",
+      "traits": ["lazy", "unpredictable"],
+      "goal": "follow orders",
+      "power": "light fruit",
+      "tier": "top marine",
+      "influence": "speed dominance"
+
+    },
+
+    "kaido": {
+      "role": "yonko",
+      "traits": ["brutal", "dominant"],
+      "goal": "world war",
+      "power": "dragon zoan",
+      "tier": "yonko+",
+      "influence": "war escalation force"
+    },
+
+    "big_mom": {
+      "role": "yonko",
+      "traits": ["emotional instability", "obsession"],
+      "goal": "all races equal kingdom",
+      "power": "soul soul fruit",
+      "tier": "yonko",
+      "influence": "emotional world control"
+    },
+
+    "trafalgar_law": {
+      "role": "supernova captain",
+      "traits": ["strategic", "cold thinker"],
+      "goal": "discover D meaning",
+      "power": "ope ope no mi",
+      "tier": "yonko commander",
+      "influence": "battlefield manipulation"
+
+    },
+
+    "eustass_kid": {
+      "role": "supernova captain",
+      "traits": ["aggressive", "violent"],
+      "goal": "become pirate king",
+      "power": "magnetism fruit",
+      "tier": "yonko commander",
+      "influence": "raw destruction force"
+
+    },
+
+    "dracule_mihawk": {
+      "role": "world's strongest swordsman",
+      "traits": ["silent", "prideful"],
+      "goal": "remain strongest swordsman",
+      "power": "pure sword mastery",
+      "tier": "yonko commander+",
+      "influence": "swordsmanship peak benchmark"
+    },
+
+    "boa_hancock": {
+      "role": "warlord (former)",
+      "traits": ["prideful", "protective"],
+      "goal": "protect amazon lily",
+      "power": "love love fruit",
+      "tier": "high commander",
+      "influence": "emotional manipulation"
+
+    },
+
+    "crocodile": {
+      "role": "former warlord",
+      "traits": ["strategic", "ruthless"],
+      "goal": "ancient weapon control",
+      "power": "sand sand fruit",
+      "tier": "high commander",
+      "influence": "political manipulation"
+
+    },
+
+    "doflamingo": {
+      "role": "former warlord",
+      "traits": ["sadistic", "intelligent"],
+      "goal": "world control via chaos",
+      "power": "string string fruit",
+      "tier": "high commander",
+      "influence": "underworld control"
+    },
+
+    "enel": {
+      "role": "self-proclaimed god",
+      "traits": ["arrogant", "god complex"],
+      "goal": "rule sky island",
+      "power": "lightning fruit",
+      "tier": "high commander",
+      "influence": "sky-level destruction"
+    },
+
+    "roger": {
+      "role": "pirate king",
+      "traits": ["free", "adventurous"],
+      "goal": "reached Laugh Tale",
+      "power": "peak haki user",
+      "tier": "legendary",
+      "influence": "started great pirate era"
+    },
+
+    "whitebeard": {
+      "role": "yonko",
+      "traits": ["fatherly", "honorable"],
+      "goal": "family protection",
+      "power": "quake quake fruit",
+      "tier": "legendary",
+      "influence": "world balance pillar"
+    },
+
+    "rocks_d_xebec": {
+      "role": "legendary pirate",
+      "traits": ["ambitious", "chaotic"],
+      "goal": "world domination",
+      "power": "unknown",
+      "tier": "legendary",
+      "influence": "predecessor to yonko system"
+    },
+
+     "trafalgar_law": {
+      "role": "supernova captain",
+      "affiliation": "heart_pirates",
+      "traits": ["strategic", "calm", "calculating"],
+      "goal": "discover meaning of D",
+      "power": "Ope Ope no Mi",
+      "tier": "yonko commander level",
+      "influence": "tactical battlefield control"
+    },
+
+    "eustass_kid": {
+      "role": "supernova captain",
+      "affiliation": "kid_pirates",
+      "traits": ["violent", "aggressive", "prideful"],
+      "goal": "become pirate king",
+      "power": "magnetism fruit",
+      "tier": "yonko commander level",
+      "influence": "raw destructive force"
+    },
+
+    "killer": {
+      "role": "kid_pirates_right_hand",
+      "traits": ["silent", "efficient", "loyal"],
+      "goal": "support Kid",
+      "power": "sound-based blades",
+      "tier": "high commander",
+      "influence": "precision assassin"
+    },
+
+    "capone_bek": {
+      "role": "supernova captain",
+      "traits": ["strategic", "crime boss mindset"],
+      "goal": "underground domination",
+      "power": "castle-body fruit",
+      "tier": "commander level",
+      "influence": "internal army storage warfare"
+    },
+
+    "x_drake": {
+      "role": "double_agent",
+      "affiliation": "sword / kaido_former",
+      "traits": ["calculated", "military trained"],
+      "goal": "secret justice mission",
+      "power": "ancient zoan dinosaur",
+      "tier": "commander level",
+      "influence": "spy infiltration network"
+    },
+
+    "basil_hawkins": {
+      "role": "supernova",
+      "traits": ["mystical", "calculating"],
+      "goal": "survival through fate control",
+      "power": "voodoo straw fruit",
+      "tier": "commander level",
+      "influence": "probability manipulation theme"
+    },
+
+    "scratchmen_apo": {
+      "role": "supernova traitor type",
+      "traits": ["deceptive", "chaotic"],
+      "goal": "survive and betray",
+      "power": "sound-based attacks",
+      "tier": "commander level",
+      "influence": "chaos instigator"
+
+    },
+
+    "urouge": {
+      "role": "supernova monk",
+      "traits": ["physically resilient", "calm"],
+      "goal": "unknown expansion",
+      "power": "damage-to-strength conversion",
+      "tier": "commander level",
+      "influence": "battle endurance wildcard"
+    },
+
+    "bonney_jewelry": {
+      "role": "supernova",
+      "traits": ["emotional", "rebellious"],
+      "goal": "truth about Kuma",
+      "power": "age manipulation",
+      "tier": "high commander",
+      "influence": "time/age distortion impact"
+    },
+
+    "boa_sandersonia": {
+      "role": "amazon_lily_commander",
+      "traits": ["loyal", "protective"],
+      "goal": "protect Hancock",
+      "power": "snake zoan",
+      "tier": "mid commander",
+      "influence": "tribal defense force"
+    },
+
+    "boa_marigold": {
+      "role": "amazon_lily_commander",
+      "traits": ["aggressive", "loyal"],
+      "goal": "protect island",
+      "power": "snake zoan",
+      "tier": "mid commander",
+      "influence": "support combat unit"
+    },
+
+    "donquixote_rosinante": {
+      "role": "marine undercover",
+      "traits": ["selfless", "kind"],
+      "goal": "save Law",
+      "power": "silence fruit",
+      "tier": "high utility",
+      "influence": "law origin catalyst"
+    },
+
+    "smoker": {
+      "role": "marine officer",
+      "traits": ["persistent", "moral"],
+      "goal": "true justice",
+      "power": "smoke fruit",
+      "tier": "vice admiral level",
+      "influence": "anti-pirate pursuit force"
+    },
+
+    "tashigi": {
+      "role": "marine swordswoman",
+      "traits": ["honorable", "idealistic"],
+      "goal": "protect civilians",
+      "power": "swordsmanship",
+      "tier": "officer level",
+      "influence": "moral marine perspective"
+    },
+
+    "sentomaru": {
+      "role": "marine_scientific_guard",
+      "traits": ["loyal", "defensive"],
+      "goal": "protect vegapunk assets",
+      "power": "advanced armament haki",
+      "tier": "commander level",
+      "influence": "science security force"
+    },
+
+    "vegapunk": {
+      "role": "world_scientist",
+      "traits": ["genius", "obsessive researcher"],
+      "goal": "understand devil fruits and life",
+      "power": "technology mastery",
+      "tier": "non-combat strategic god tier",
+      "influence": "world tech evolution"
+    },
+
+    "im": {
+      "role": "hidden ruler",
+      "traits": ["unknown", "absolute authority"],
+      "goal": "control world from shadows",
+      "power": "unknown",
+      "tier": "world endgame entity",
+      "influence": "global narrative control"
+    },
+
+    "gorosei": {
+      "role": "world_government_elder_council",
+      "traits": ["authoritative", "secretive"],
+      "goal": "maintain order and secrecy",
+      "power": "unknown high-tier abilities",
+      "tier": "endgame commanders",
+      "influence": "global governance control"
+    },
+
+    "coby": {
+      "role": "marine rising star",
+      "traits": ["idealistic", "hardworking"],
+      "goal": "become admiral",
+      "power": "rapid haki growth",
+      "tier": "rising commander",
+      "influence": "future marine transformation"
+    },
+
+    "helmeppo": {
+      "role": "marine officer",
+      "traits": ["developing", "disciplined"],
+      "goal": "prove himself",
+      "power": "swordsmanship + haki growth",
+      "tier": "mid officer",
+      "influence": "support marine evolution"
+    },
+
+    "ivankov": {
+      "role": "revolutionary commander",
+      "traits": ["eccentric", "charismatic"],
+      "goal": "free oppressed people",
+      "power": "hormone manipulation",
+      "tier": "commander level",
+      "influence": "revolutionary morale control"
+    },
+
+    "inazuma": {
+      "role": "revolutionary",
+      "traits": ["loyal", "adaptive"],
+      "goal": "support ivankov",
+      "power": "scissor transformation",
+      "tier": "mid commander",
+      "influence": "escape and infiltration support"
+    },
+
+    "karasu": {
+      "role": "revolutionary commander",
+      "traits": ["calm", "strategic"],
+      "goal": "weaken world government",
+      "power": "crow manipulation",
+      "tier": "commander level",
+      "influence": "large scale battlefield control"
+    },
+
+    "morley": {
+      "role": "revolutionary commander",
+      "traits": ["giant", "unpredictable"],
+      "goal": "break prisons and systems",
+      "power": "earth manipulation",
+      "tier": "commander level",
+      "influence": "terrain warfare specialist"
+    },
+
+    "belo_betty": {
+      "role": "revolutionary commander",
+      "traits": ["inspirational", "motivating"],
+      "goal": "empower rebels",
+      "power": "empowerment fruit",
+      "tier": "commander support",
+      "influence": "mass morale amplification"
+    },
+
+    "fujitora": {
+      "role": "marine admiral",
+      "traits": ["moral", "justice-driven"],
+      "goal": "true blind justice",
+      "power": "gravity fruit",
+      "tier": "admiral level",
+      "influence": "battlefield control + moral conflict"
+    },
+
+    "ryokugyu": {
+      "role": "marine admiral",
+      "traits": ["aggressive", "nature-based"],
+      "goal": "enforce absolute order",
+      "power": "forest/logia-like nature power",
+      "tier": "admiral level",
+      "influence": "environmental domination"
+    }
+  }
+}

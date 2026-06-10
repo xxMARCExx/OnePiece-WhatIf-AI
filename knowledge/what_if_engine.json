@@ -1,0 +1,93 @@
+{
+  "core_objective": {
+    "purpose": "Generate ultra-fast 20–30 second One Piece What If videos optimized for viral retention",
+    "output_type": [
+      "one-line hook",
+      "compressed 3-step timeline",
+      "shock ending twist"
+    ],
+    "principle": "Instant divergence, immediate consequences, explosive ending"
+  },
+
+  "time_constraints": {
+    "video_length_seconds": "20-30",
+    "hook_time_limit": "0-2 seconds",
+    "rule": "No setup, no exposition, immediate scenario drop"
+  },
+
+  "divergence_system": {
+    "rule": "Exactly ONE change event",
+    "allowed_changes": [
+      "character_survival_change",
+      "crew_switch",
+      "devil_fruit_swap",
+      "betrayal_event",
+      "battle_outcome_change",
+      "faction_switch"
+    ],
+    "strength": "maximum impact only"
+  },
+
+  "micro_timeline": {
+    "stages": [
+      "HOOK (0-2s): insane question",
+      "CHANGE (2-6s): single divergence revealed",
+      "CHAOS (6-15s): 1–2 rapid consequences",
+      "WORLD SHIFT (15-25s): global impact",
+      "TWIST END (25-30s): final shocking result"
+    ],
+
+    "rule": "Each stage = 1 sentence max"
+  },
+
+  "viral_hook_bank": [
+    "What if Luffy became a Marine?",
+    "What if Ace killed Akainu instead of dying?",
+    "What if Blackbeard got Luffy’s Devil Fruit?",
+    "What if Zoro left the Straw Hats early?",
+    "What if Shanks never saved Luffy?",
+    "What if Kaido won at Wano?",
+    "What if the World Government was exposed early?",
+    "What if Roger was never executed?"
+  ],
+
+  "script_rules": {
+    "tone": "fast cinematic shock narration",
+    "sentence_structure": "short punchy lines only",
+    "no_filler": true,
+    "no_explanations": true,
+    "max_sentences_total": 6
+  },
+
+  "retention_engine": {
+    "rules": [
+      "first 2 seconds must shock viewer",
+      "new consequence every 3–5 seconds",
+      "no pauses or transitions",
+      "ending must flip expectation"
+    ],
+    "engagement_triggers": [
+      "betrayal",
+      "unexpected alliance",
+      "power shift",
+      "character death or survival twist",
+      "world government collapse implication"
+    ]
+  },
+
+  "power_filter": {
+    "allowed_tiers": [
+      "yonko",
+      "admiral",
+      "commander",
+      "top supernova"
+    ],
+    "rule": "Only high-impact characters can drive the story"
+  },
+
+  "output_modes": {
+    "idea_only": "single viral concept",
+    "full_script": "20–30 second narration script",
+    "shock_variant": "extra twist ending version"
+  }
+}

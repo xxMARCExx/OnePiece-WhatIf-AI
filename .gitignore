@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables (VERY IMPORTANT)
+.env
+.env.*
+
+# Virtual environment
+venv/
+.venv/
+
+# OS files
+.DS_Store
+
+# Output files (videos/audio)
+assets/output/
+assets/audio/
+
+# Logs
+*.log

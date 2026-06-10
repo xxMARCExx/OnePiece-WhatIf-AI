@@ -1,0 +1,164 @@
+{
+  "world": {
+    "name": "One Piece",
+    "type": "pirate world ocean civilization",
+    "core_themes": [
+      "freedom vs control",
+      "inherited will across generations",
+      "truth hidden by history",
+      "dreams that reshape reality",
+      "power vs justice corruption",
+      "chosen family bonds"
+    ],
+
+    "fundamental_truth": {
+      "one_piece": "A legendary treasure left by Joy Boy at Laugh Tale",
+      "void_century": "A 100-year erased history hidden by the World Government",
+      "will_of_d": "A mysterious inherited lineage tied to world-changing individuals",
+      "joy_boy": "A historical figure linked to liberation and prophecy"
+    }
+  },
+
+  "world_structure": {
+    "oceans": [
+      "East Blue",
+      "West Blue",
+      "North Blue",
+      "South Blue",
+      "Grand Line",
+      "New World"
+    ],
+
+    "special_zones": [
+      "Mariejois (World Government Holy Land)",
+      "Marineford (Marine HQ)",
+      "Enies Lobby (Judicial Island)",
+      "Impel Down (Undersea Prison)",
+      "Laugh Tale (final island)"
+    ],
+
+    "navigation_rule": "The Grand Line is unpredictable due to magnetic and climate instability, making it impossible to navigate normally"
+  },
+
+  "factions": {
+    "straw_hat_pirates": {
+      "type": "pirate crew",
+      "goal": "find One Piece and achieve personal dreams",
+      "core_value": "absolute freedom",
+      "structure": "loose but emotionally bonded family"
+    },
+
+    "world_government": {
+      "type": "global authority",
+      "goal": "maintain global control and suppress forbidden history",
+      "secret": "true rulers include the Gorosei and Imu",
+      "methods": ["propaganda", "erasing history", "military force"]
+    },
+
+    "marines": {
+      "type": "military force",
+      "goal": "enforce justice (varies by ideology)",
+      "internal_conflict": "absolute justice vs moral justice",
+      "key_issue": "corruption within hierarchy"
+    },
+
+    "revolutionary_army": {
+      "type": "anti-government force",
+      "goal": "overthrow World Government",
+      "leader": "Monkey D. Dragon",
+      "method": "global uprising and destabilization"
+    },
+
+    "yonko": {
+      "type": "four emperors of the sea",
+      "role": "balance of power in New World",
+      "nature": "independent pirate empires"
+    }
+  },
+
+  "power_system": {
+    "devil_fruits": {
+      "origin": "unknown scientific or natural anomaly",
+      "rules": [
+        "One fruit per user",
+        "Sea water removes strength",
+        "Users lose ability to swim",
+        "Abilities manifest based on imagination or biology",
+        "Awakening allows environmental transformation"
+      ],
+
+      "types": {
+        "paramecia": "body or environmental alteration",
+        "zoan": "animal transformation and hybrid forms",
+        "logia": "elemental body transformation",
+        "mythical_zoan": "legendary creatures with special abilities"
+      }
+    },
+
+    "haki": {
+      "definition": "manifestation of willpower as energy",
+      "types": {
+        "observation": "perceive presence and intent",
+        "armament": "invisible armor and internal damage",
+        "conquerors": "overpowering will that dominates others"
+      },
+
+      "advanced_forms": [
+        "future sight (predict actions)",
+        "internal destruction (bypass durability)",
+        "conqueror infusion (coating attacks with willpower)"
+      ]
+    },
+
+    "combat_rule": "Top-tier battles are decided by haki mastery, willpower, and adaptability more than raw devil fruit power"
+  },
+
+  "historical_events": {
+    "void_century_war": "Ancient kingdom was erased after war with allied kingdoms forming World Government",
+    "god_valley_incident": "Roger and Garp alliance defeated Rocks D. Xebec",
+    "marineford_war": "Whitebeard died attempting to save Ace; world balance shifted",
+    "wano_war": "Alliance defeated Kaido and Big Mom influence collapsed"
+  },
+
+  "important_artifacts": {
+    "ponegliffs": "Ancient stone tablets containing forbidden history",
+    "ancient_weapons": [
+      "Pluton (destroyer battleship)",
+      "Poseidon (control of sea kings)",
+      "Uranus (unknown aerial/sky weapon)"
+    ]
+  },
+
+  "timeline_logic": {
+    "rule": "Small changes in early arcs exponentially change later arcs",
+    "butterfly_effect": [
+      "crew composition changes affect major wars",
+      "devil fruit distribution alters global balance",
+      "marine actions reshape Yonko structure"
+    ]
+  },
+
+  "arc_progression": {
+    "early_game": "East Blue → Alabasta (crew formation and initial world exposure)",
+    "mid_game": "Enies Lobby → Marineford (world government conflict escalation)",
+    "late_game": "Dressrosa → Wano (Yonko-level warfare and world destabilization)",
+    "endgame": "Laugh Tale discovery and final war with World Government"
+  },
+
+  "narrative_rules": {
+    "consistency": [
+      "Characters retain personality even in alternate timelines",
+      "Power scaling must remain logical",
+      "Events must ripple across multiple factions",
+      "No isolated changes (everything connects)"
+    ],
+
+    "what_if_logic": [
+      "Select one divergence point",
+      "Apply immediate local change",
+      "Propagate effects across arcs",
+      "Escalate until world-state shift",
+      "End with irreversible consequence"
+    ]
+  }
+}
